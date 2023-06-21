@@ -1,0 +1,42 @@
+.name{
+  padding: 3%;
+  margin-top: auto;
+}
+.pages{
+  margin-left: auto;
+}
+.page{
+  padding: 1% 7%;
+}
+.btn-lon{
+  background-color: #5F1854;
+  color: whitesmoke;
+  margin: auto;
+  box-shadow: 1px 5px 7px 0 #152A38;
+}
+.btn-lon2{
+  background-color: #1ABB9C;
+  color: whitesmoke;
+  margin: auto;
+  box-shadow: 1px 5px 7px 0 #152A38;
+}
+.nav-title{
+  color: #5F1854;
+  font-weight: bolder;
+}
+.project{
+  padding: 2%;
+  margin: 3%;
+}
+input,textarea{
+  border-radius: 5px;
+}
+
+input:focus,textarea:focus {
+  border: 2px solid rgb(47 89 141);
+  outline: 2px solid rgb(47 89 141);
+}
+
+h2.whats,form.gmail{
+  display: none;
+}
